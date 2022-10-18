@@ -5,4 +5,6 @@ const sayHi = (name) => {
 // use ${} in order to put data in the console
 // use backticks `
 
+// exporting a function
+
 module.exports = sayHi;
